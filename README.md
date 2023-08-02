@@ -1,0 +1,2 @@
+# Cinema
+Cinema landing page
